@@ -28,6 +28,7 @@ done()
 from turtle import *
 
 shape("turtle")
+speed(0)
 
 
 def square():
@@ -36,6 +37,10 @@ def square():
         right(90)
 
 
-square()
+# Shape using loop
+for i in range(80):
+    square()
+    right(5)
+
 done()
 #######################

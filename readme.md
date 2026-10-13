@@ -4,7 +4,9 @@ Personal progress log and practice scripts for _Math Adventures with Python_ by 
 
 ## Progress Log
 
-### Chapter 1: Drawing Shapes with Turtle
+### Chapter 1:
+
+#### Drawing Shapes with Turtle
 
 - Set up the `turtle` graphics module inside VS Code.
 - Practiced basic cursor movement (`forward`, `right`, `left`) to draw lines and shapes.
